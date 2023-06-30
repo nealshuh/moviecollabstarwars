@@ -1,0 +1,17 @@
+@font-face {
+    font-family: 'Lato-light';
+    src: local('Lato-light'), url(./Fonts/Lato\ Light/lato-light.woff) format('woff');
+  }
+
+@font-face {
+  font-family: 'Jost-500-Medium';
+  src: local('Jost-500-Medium'), url(./Fonts/Jost-Web-Font-master/Jost-500-Medium.woff) format('woff');
+}
+
+span.begin{
+  font-family: 'Jost-500-Medium'
+}
+
+span.info {
+  font-family: 'Lato-light';
+}
